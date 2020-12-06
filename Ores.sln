@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ores", "Ores\Ores.vcxproj", "{F621276F-003C-4A92-A7DD-46C17FD08887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Debug|x64.ActiveCfg = Debug|x64
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Debug|x64.Build.0 = Debug|x64
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Debug|x86.ActiveCfg = Debug|Win32
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Debug|x86.Build.0 = Debug|Win32
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Release|x64.ActiveCfg = Release|x64
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Release|x64.Build.0 = Release|x64
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Release|x86.ActiveCfg = Release|Win32
+		{F621276F-003C-4A92-A7DD-46C17FD08887}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFAEAED5-83F8-4C94-A232-225EC6ACB8EA}
+	EndGlobalSection
+EndGlobal
